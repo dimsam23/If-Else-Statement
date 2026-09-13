@@ -4,4 +4,4 @@ Disini saya menjelaskan tentang kondisi IF, ELIF dan ELSE yang sering digunakan 
 Tetapi IF, ELIF dan ELSE ini sangat sering dijumpai dalam sebuah flowchart atau bagan alur
 artinya, flowchart memiliki keterkaitan erat dengan sebuah pemrograman
 
-Selengkapnya saya bahas pada video:
+Selengkapnya saya bahas pada video: https://youtu.be/_Mokr5Tp4Ic
